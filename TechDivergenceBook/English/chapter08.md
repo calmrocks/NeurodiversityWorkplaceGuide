@@ -39,4 +39,4 @@ Discuss the value of cultivating meaningful connections with others, both in pro
 
 ## Conclusion
 
-Handling FOMO is about understanding your priorities, embracing the present moment, and finding a balance between the digital and real worlds. This chapter provides neurodivergent individuals with practical tools and strategies to manage the anxiety and stress associated with FOMO, enabling them to focus on what truly matters in their lives and careers. By doing so
+Handling FOMO is about understanding your priorities, embracing the present moment, and finding a balance between the digital and real worlds. This chapter provides neurodivergent individuals with practical tools and strategies to manage the anxiety and stress associated with FOMO, enabling them to focus on what truly matters in their lives and careers.

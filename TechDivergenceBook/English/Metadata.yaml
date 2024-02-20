@@ -5,6 +5,7 @@ subtitle:
 abstract: This book is a comprehensive and practical resource tailored for neurodivergent professionals and their allies. It blends personal insights, effective communication strategies, productivity tools, and wellness tips, empowering neurodivergent individuals in their careers. Covering everything from building supportive networks to managing workplace challenges, it provides essential advice for thriving in a professional environment. Complete with an extensive list of further resources, this guide is an indispensable tool for navigating and succeeding in today's diverse workplace.
 keywords: Neurodiversity, Workplace Inclusion, Career Development, Professional Growth, Self-Advocacy, Communication Skills, Productivity Strategies, Mental Health, Work-Life Balance, Support Networks, Diversity Management, Tech Industry, Personal Wellness, Employee Support, Inclusive Practices
 lang: en-US
+cover-image: "./images/cover.png"
 toc: true
 toc-depth: 2
 css: tufte.css
